@@ -1,4 +1,4 @@
-<h1>Red Star Graphix Landing Page build with Next JS 13, TypeScript and Tailwind CSS.</h1>
+<h1>Red Star Graphix Landing Page build with Next JS 13, TypeScript, Framer Motion and Tailwind CSS.</h1>
 
 <hr/>
 
